@@ -1,0 +1,14 @@
+*.pdf
+*.exe
+*.CSV
+Modulo_1/Desafio/ETL/matricula_co.CSV
+Modulo_1/Desafio/ETL/matricula_nordeste.CSV
+Modulo_1/Desafio/ETL/matricula_norte.CSV
+Modulo_1/Desafio/ETL/matricula_sul.CSV
+Modulo_1/Desafio/ETL/matricula_sudeste.CSV
+matricula_co.CSV
+matricula_nordeste.CSV
+matricula_norte.CSV
+matricula_sul.CSV
+matricula_sudeste.CSV
+.terraform\providers\registry.terraform.io\hashicorp\aws
