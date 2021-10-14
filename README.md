@@ -26,6 +26,9 @@
  - Gerenciamento de infraestruturas.
 
 
+-------------------------------
+
+
 ﻿# Modulo 1 - Estudos de casos
 
 O autor das imagens e criador dos casos de uso é o Professor [Neylson Crepalde](https://github.com/neylsoncrepalde)
