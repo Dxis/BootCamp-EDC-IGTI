@@ -5,13 +5,23 @@
 
 ### Modulo 1  
 
-### AWS - (s3 - EMR (Cluster & Notebook) - Glue - Athena - Lambda - Billing)  
+### AWS 
+ - s3 - Data Lake 
+ - EMR - Cluster Hadoop na AWS 
+   - Cluster & Notebook.
+ - Glue 
+    - GLue Crawler para classificar esquema e catalogar metadados.
+ - Athena - Motor de pesquisas no Data Lake
+ - Lambda - PaaS. 
+ - Billing - Cobrança.
+ 
 
 ### Git - ( Git hub  &  Git Lab ) ###
-Repositórios com controle de versão e esteiras de deploy. 
+ - Repositórios com controle de versão. 
+ - Esteiras de deploy. 
 
 ### IaC - ( Terraform ) ### 
-Gerenciamento de infraestruturas.
+ - Gerenciamento de infraestruturas.
 
 
 
