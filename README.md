@@ -9,10 +9,12 @@
  - s3 - Data Lake 
  - EMR - Cluster Hadoop na AWS 
    - Cluster & Notebook.
+     - JupyterLAb
+     - PySpark
  - Glue 
     - GLue Crawler para classificar esquemas e catalogar metadados, tornando os dados acesseveis para o Athena poder realizar consultas.
  - Athena - Motor de pesquisas no Data Lake
- - Lambda - PaaS. 
+ - Lambda - Em fase de estudos. 
  - Billing - Cobrança.
  
 
