@@ -10,7 +10,7 @@
  - EMR - Cluster Hadoop na AWS 
    - Cluster & Notebook.
  - Glue 
-    - GLue Crawler para classificar esquema e catalogar metadados.
+    - GLue Crawler para classificar esquemas e catalogar metadados, tornando os dados acesseveis para o Athena poder realizar consultas.
  - Athena - Motor de pesquisas no Data Lake
  - Lambda - PaaS. 
  - Billing - Cobrança.
@@ -22,6 +22,8 @@
 
 ### IaC - ( Terraform ) ### 
  - Gerenciamento de infraestruturas.
+
+
 
 
 
